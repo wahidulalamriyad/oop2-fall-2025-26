@@ -1,12 +1,7 @@
-﻿using System;
-using System.Globalization;
-
-class Program
+﻿class Program
 {
     static void Main()
     {
-        // Setup Bangladeshi currency format
-        CultureInfo bdCulture = new CultureInfo("bn-BD");
 
         Console.WriteLine("=== Mortgage Calculator (Bangladesh) ===");
 
@@ -128,14 +123,18 @@ class Program
         double totalPayment = mortgage * numberOfPayments;
         double totalInterest = totalPayment - principal;
 
+
         // Output summary
-        Console.WriteLine("\n=== Mortgage Summary ===");
-        Console.WriteLine($"Monthly Salary: {salary.ToString("C", bdCulture)}");
+        Console.WriteLine("\n====== Mortgage Summary ======");
+        Console.WriteLine($"Monthly Salary: BDT {salary:0,0.00}");
         Console.WriteLine($"Credit Score: {creditScore}");
         Console.WriteLine($"Criminal Record: {criminalRecord}");
-        Console.WriteLine($"Loan Amount: {principal.ToString("C", bdCulture)}");
-        Console.WriteLine($"Monthly Payment: {mortgage.ToString("C", bdCulture)}");
-        Console.WriteLine($"Total Payment: {totalPayment.ToString("C", bdCulture)}");
-        Console.WriteLine($"Total Interest: {totalInterest.ToString("C", bdCulture)}");
+        Console.WriteLine($"Loan Amount: BDT {principal:0,0.00}");
+        Console.WriteLine($"Annual Interest Rate: {annualInterestRate}%");
+        Console.WriteLine($"Loan Period: {years} years");
+        Console.WriteLine($"\nMonthly Payment: BDT {mortgage:0,0.00}");
+        Console.WriteLine($"Total Payment: BDT {totalPayment:0,0.00}");
+        Console.WriteLine($"Total Interest: BDT {totalInterest:0,0.00}");
+        Console.WriteLine("------------------------------");
     }
 }
