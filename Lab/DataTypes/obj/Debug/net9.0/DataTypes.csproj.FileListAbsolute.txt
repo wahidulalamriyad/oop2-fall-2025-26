@@ -1,0 +1,15 @@
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/DataTypes/bin/Debug/net9.0/DataTypes
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/DataTypes/bin/Debug/net9.0/DataTypes.deps.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/DataTypes/bin/Debug/net9.0/DataTypes.runtimeconfig.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/DataTypes/bin/Debug/net9.0/DataTypes.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/DataTypes/bin/Debug/net9.0/DataTypes.pdb
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/DataTypes/obj/Debug/net9.0/DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/DataTypes/obj/Debug/net9.0/DataTypes.AssemblyInfoInputs.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/DataTypes/obj/Debug/net9.0/DataTypes.AssemblyInfo.cs
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/DataTypes/obj/Debug/net9.0/DataTypes.csproj.CoreCompileInputs.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/DataTypes/obj/Debug/net9.0/DataTypes.sourcelink.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/DataTypes/obj/Debug/net9.0/DataTypes.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/DataTypes/obj/Debug/net9.0/refint/DataTypes.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/DataTypes/obj/Debug/net9.0/DataTypes.pdb
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/DataTypes/obj/Debug/net9.0/DataTypes.genruntimeconfig.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/DataTypes/obj/Debug/net9.0/ref/DataTypes.dll

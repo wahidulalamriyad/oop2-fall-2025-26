@@ -1,0 +1,15 @@
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/IfElse/bin/Debug/net9.0/IfElse
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/IfElse/bin/Debug/net9.0/IfElse.deps.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/IfElse/bin/Debug/net9.0/IfElse.runtimeconfig.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/IfElse/bin/Debug/net9.0/IfElse.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/IfElse/bin/Debug/net9.0/IfElse.pdb
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/IfElse/obj/Debug/net9.0/IfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/IfElse/obj/Debug/net9.0/IfElse.AssemblyInfoInputs.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/IfElse/obj/Debug/net9.0/IfElse.AssemblyInfo.cs
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/IfElse/obj/Debug/net9.0/IfElse.csproj.CoreCompileInputs.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/IfElse/obj/Debug/net9.0/IfElse.sourcelink.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/IfElse/obj/Debug/net9.0/IfElse.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/IfElse/obj/Debug/net9.0/refint/IfElse.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/IfElse/obj/Debug/net9.0/IfElse.pdb
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/IfElse/obj/Debug/net9.0/IfElse.genruntimeconfig.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/IfElse/obj/Debug/net9.0/ref/IfElse.dll

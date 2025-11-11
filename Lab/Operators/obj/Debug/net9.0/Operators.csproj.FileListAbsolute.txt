@@ -1,0 +1,15 @@
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Operators/bin/Debug/net9.0/Operators
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Operators/bin/Debug/net9.0/Operators.deps.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Operators/bin/Debug/net9.0/Operators.runtimeconfig.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Operators/bin/Debug/net9.0/Operators.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Operators/bin/Debug/net9.0/Operators.pdb
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Operators/obj/Debug/net9.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Operators/obj/Debug/net9.0/Operators.AssemblyInfoInputs.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Operators/obj/Debug/net9.0/Operators.AssemblyInfo.cs
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Operators/obj/Debug/net9.0/Operators.csproj.CoreCompileInputs.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Operators/obj/Debug/net9.0/Operators.sourcelink.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Operators/obj/Debug/net9.0/Operators.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Operators/obj/Debug/net9.0/refint/Operators.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Operators/obj/Debug/net9.0/Operators.pdb
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Operators/obj/Debug/net9.0/Operators.genruntimeconfig.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Operators/obj/Debug/net9.0/ref/Operators.dll

@@ -1,0 +1,15 @@
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HelloWorldExplicit/bin/Debug/net9.0/HelloWorldExplicit
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HelloWorldExplicit/bin/Debug/net9.0/HelloWorldExplicit.deps.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HelloWorldExplicit/bin/Debug/net9.0/HelloWorldExplicit.runtimeconfig.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HelloWorldExplicit/bin/Debug/net9.0/HelloWorldExplicit.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HelloWorldExplicit/bin/Debug/net9.0/HelloWorldExplicit.pdb
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HelloWorldExplicit/obj/Debug/net9.0/HelloWorldExplicit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HelloWorldExplicit/obj/Debug/net9.0/HelloWorldExplicit.AssemblyInfoInputs.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HelloWorldExplicit/obj/Debug/net9.0/HelloWorldExplicit.AssemblyInfo.cs
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HelloWorldExplicit/obj/Debug/net9.0/HelloWorldExplicit.csproj.CoreCompileInputs.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HelloWorldExplicit/obj/Debug/net9.0/HelloWorldExplicit.sourcelink.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HelloWorldExplicit/obj/Debug/net9.0/HelloWorldExplicit.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HelloWorldExplicit/obj/Debug/net9.0/refint/HelloWorldExplicit.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HelloWorldExplicit/obj/Debug/net9.0/HelloWorldExplicit.pdb
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HelloWorldExplicit/obj/Debug/net9.0/HelloWorldExplicit.genruntimeconfig.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HelloWorldExplicit/obj/Debug/net9.0/ref/HelloWorldExplicit.dll
