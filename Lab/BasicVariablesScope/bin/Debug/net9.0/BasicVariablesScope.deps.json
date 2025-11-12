@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BasicVariablesScope/1.0.0": {
+        "runtime": {
+          "BasicVariablesScope.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasicVariablesScope/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

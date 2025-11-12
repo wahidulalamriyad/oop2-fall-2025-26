@@ -1,0 +1,15 @@
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HouseExcercise/bin/Debug/net9.0/HouseExcercise
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HouseExcercise/bin/Debug/net9.0/HouseExcercise.deps.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HouseExcercise/bin/Debug/net9.0/HouseExcercise.runtimeconfig.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HouseExcercise/bin/Debug/net9.0/HouseExcercise.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HouseExcercise/bin/Debug/net9.0/HouseExcercise.pdb
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HouseExcercise/obj/Debug/net9.0/HouseExcercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HouseExcercise/obj/Debug/net9.0/HouseExcercise.AssemblyInfoInputs.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HouseExcercise/obj/Debug/net9.0/HouseExcercise.AssemblyInfo.cs
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HouseExcercise/obj/Debug/net9.0/HouseExcercise.csproj.CoreCompileInputs.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HouseExcercise/obj/Debug/net9.0/HouseExcercise.sourcelink.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HouseExcercise/obj/Debug/net9.0/HouseExcercise.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HouseExcercise/obj/Debug/net9.0/refint/HouseExcercise.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HouseExcercise/obj/Debug/net9.0/HouseExcercise.pdb
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HouseExcercise/obj/Debug/net9.0/HouseExcercise.genruntimeconfig.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/HouseExcercise/obj/Debug/net9.0/ref/HouseExcercise.dll

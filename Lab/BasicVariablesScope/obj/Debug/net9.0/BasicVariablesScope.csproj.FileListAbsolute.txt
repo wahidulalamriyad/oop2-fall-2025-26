@@ -1,0 +1,15 @@
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicVariablesScope/bin/Debug/net9.0/BasicVariablesScope
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicVariablesScope/bin/Debug/net9.0/BasicVariablesScope.deps.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicVariablesScope/bin/Debug/net9.0/BasicVariablesScope.runtimeconfig.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicVariablesScope/bin/Debug/net9.0/BasicVariablesScope.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicVariablesScope/bin/Debug/net9.0/BasicVariablesScope.pdb
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicVariablesScope/obj/Debug/net9.0/BasicVariablesScope.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicVariablesScope/obj/Debug/net9.0/BasicVariablesScope.AssemblyInfoInputs.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicVariablesScope/obj/Debug/net9.0/BasicVariablesScope.AssemblyInfo.cs
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicVariablesScope/obj/Debug/net9.0/BasicVariablesScope.csproj.CoreCompileInputs.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicVariablesScope/obj/Debug/net9.0/BasicVariablesScope.sourcelink.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicVariablesScope/obj/Debug/net9.0/BasicVariablesScope.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicVariablesScope/obj/Debug/net9.0/refint/BasicVariablesScope.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicVariablesScope/obj/Debug/net9.0/BasicVariablesScope.pdb
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicVariablesScope/obj/Debug/net9.0/BasicVariablesScope.genruntimeconfig.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicVariablesScope/obj/Debug/net9.0/ref/BasicVariablesScope.dll

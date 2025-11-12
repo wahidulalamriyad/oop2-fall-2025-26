@@ -19,14 +19,6 @@ Console.WriteLine($"int: {i}, {j}, {k}");
 long l = 1_000_000_000_000_000_000;
 Console.WriteLine($"long: {l}");
 
-// Arithmatic Operations
-int multiply = 10 * 20;
-int divide = 10 / 2;
-int remainder = 10 % 2;
-int add = 10 + 20;
-int subtract = 10 - 20;
-Console.WriteLine($"Multiply: {multiply}, Divide: {divide}, Remainder: {remainder}, Add: {add}, Subtract: {subtract}");
-
 // C# program to demonstrate floating point
 float f = 1.23456789f;
 double d = 1.23456789d;

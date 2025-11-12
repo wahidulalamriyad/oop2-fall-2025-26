@@ -15,17 +15,30 @@ else
     Console.WriteLine("s1 and s2 are of equal length");
 }
 
-// switch
-string day = "Monday";
-switch (day)
+// Nested if-else
+int number = 15;
+if (number > 0)
 {
-    case "Monday":
-        Console.WriteLine("Start of the work week.");
-        break;
-    case "Friday":
-        Console.WriteLine("End of the work week.");
-        break;
-    default:
-        Console.WriteLine("Midweek day.");
-        break;
+    if (number % 2 == 0)
+    {
+        Console.WriteLine("The number is positive and even.");
+    }
+    else
+    {
+        Console.WriteLine("The number is positive and odd.");
+    }
 }
+else if (number < 0)
+{
+    Console.WriteLine("The number is negative.");
+}
+else
+{
+    Console.WriteLine("The number is zero.");
+}
+
+// Ternary operator
+int a = 10;
+int b = 20;
+string result = (a > b) ? "a is greater than b" : "a is not greater than b";
+Console.WriteLine(result);

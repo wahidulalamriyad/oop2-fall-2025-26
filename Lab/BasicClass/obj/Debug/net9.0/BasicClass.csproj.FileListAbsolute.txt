@@ -1,0 +1,15 @@
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicClass/bin/Debug/net9.0/BasicClass
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicClass/bin/Debug/net9.0/BasicClass.deps.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicClass/bin/Debug/net9.0/BasicClass.runtimeconfig.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicClass/bin/Debug/net9.0/BasicClass.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicClass/bin/Debug/net9.0/BasicClass.pdb
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicClass/obj/Debug/net9.0/BasicClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicClass/obj/Debug/net9.0/BasicClass.AssemblyInfoInputs.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicClass/obj/Debug/net9.0/BasicClass.AssemblyInfo.cs
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicClass/obj/Debug/net9.0/BasicClass.csproj.CoreCompileInputs.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicClass/obj/Debug/net9.0/BasicClass.sourcelink.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicClass/obj/Debug/net9.0/BasicClass.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicClass/obj/Debug/net9.0/refint/BasicClass.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicClass/obj/Debug/net9.0/BasicClass.pdb
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicClass/obj/Debug/net9.0/BasicClass.genruntimeconfig.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/BasicClass/obj/Debug/net9.0/ref/BasicClass.dll

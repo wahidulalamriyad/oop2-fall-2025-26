@@ -1,0 +1,15 @@
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Switch/bin/Debug/net9.0/Switch
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Switch/bin/Debug/net9.0/Switch.deps.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Switch/bin/Debug/net9.0/Switch.runtimeconfig.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Switch/bin/Debug/net9.0/Switch.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Switch/bin/Debug/net9.0/Switch.pdb
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Switch/obj/Debug/net9.0/Switch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Switch/obj/Debug/net9.0/Switch.AssemblyInfoInputs.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Switch/obj/Debug/net9.0/Switch.AssemblyInfo.cs
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Switch/obj/Debug/net9.0/Switch.csproj.CoreCompileInputs.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Switch/obj/Debug/net9.0/Switch.sourcelink.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Switch/obj/Debug/net9.0/Switch.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Switch/obj/Debug/net9.0/refint/Switch.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Switch/obj/Debug/net9.0/Switch.pdb
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Switch/obj/Debug/net9.0/Switch.genruntimeconfig.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Switch/obj/Debug/net9.0/ref/Switch.dll
