@@ -1,0 +1,15 @@
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/StaticMembers/bin/Debug/net9.0/StaticMembers
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/StaticMembers/bin/Debug/net9.0/StaticMembers.deps.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/StaticMembers/bin/Debug/net9.0/StaticMembers.runtimeconfig.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/StaticMembers/bin/Debug/net9.0/StaticMembers.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/StaticMembers/bin/Debug/net9.0/StaticMembers.pdb
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/StaticMembers/obj/Debug/net9.0/StaticMembers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/StaticMembers/obj/Debug/net9.0/StaticMembers.AssemblyInfoInputs.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/StaticMembers/obj/Debug/net9.0/StaticMembers.AssemblyInfo.cs
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/StaticMembers/obj/Debug/net9.0/StaticMembers.csproj.CoreCompileInputs.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/StaticMembers/obj/Debug/net9.0/StaticMembers.sourcelink.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/StaticMembers/obj/Debug/net9.0/StaticMembers.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/StaticMembers/obj/Debug/net9.0/refint/StaticMembers.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/StaticMembers/obj/Debug/net9.0/StaticMembers.pdb
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/StaticMembers/obj/Debug/net9.0/StaticMembers.genruntimeconfig.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/StaticMembers/obj/Debug/net9.0/ref/StaticMembers.dll

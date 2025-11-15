@@ -1,0 +1,15 @@
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/AdvancedVariableScopes/bin/Debug/net9.0/AdvancedVariableScopes
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/AdvancedVariableScopes/bin/Debug/net9.0/AdvancedVariableScopes.deps.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/AdvancedVariableScopes/bin/Debug/net9.0/AdvancedVariableScopes.runtimeconfig.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/AdvancedVariableScopes/bin/Debug/net9.0/AdvancedVariableScopes.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/AdvancedVariableScopes/bin/Debug/net9.0/AdvancedVariableScopes.pdb
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/AdvancedVariableScopes/obj/Debug/net9.0/AdvancedVariableScopes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/AdvancedVariableScopes/obj/Debug/net9.0/AdvancedVariableScopes.AssemblyInfoInputs.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/AdvancedVariableScopes/obj/Debug/net9.0/AdvancedVariableScopes.AssemblyInfo.cs
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/AdvancedVariableScopes/obj/Debug/net9.0/AdvancedVariableScopes.csproj.CoreCompileInputs.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/AdvancedVariableScopes/obj/Debug/net9.0/AdvancedVariableScopes.sourcelink.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/AdvancedVariableScopes/obj/Debug/net9.0/AdvancedVariableScopes.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/AdvancedVariableScopes/obj/Debug/net9.0/refint/AdvancedVariableScopes.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/AdvancedVariableScopes/obj/Debug/net9.0/AdvancedVariableScopes.pdb
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/AdvancedVariableScopes/obj/Debug/net9.0/AdvancedVariableScopes.genruntimeconfig.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/AdvancedVariableScopes/obj/Debug/net9.0/ref/AdvancedVariableScopes.dll

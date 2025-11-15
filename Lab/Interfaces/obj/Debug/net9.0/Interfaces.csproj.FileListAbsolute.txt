@@ -1,0 +1,15 @@
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Interfaces/bin/Debug/net9.0/Interfaces
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Interfaces/bin/Debug/net9.0/Interfaces.deps.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Interfaces/bin/Debug/net9.0/Interfaces.runtimeconfig.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Interfaces/bin/Debug/net9.0/Interfaces.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Interfaces/bin/Debug/net9.0/Interfaces.pdb
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Interfaces/obj/Debug/net9.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Interfaces/obj/Debug/net9.0/Interfaces.AssemblyInfoInputs.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Interfaces/obj/Debug/net9.0/Interfaces.AssemblyInfo.cs
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Interfaces/obj/Debug/net9.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Interfaces/obj/Debug/net9.0/Interfaces.sourcelink.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Interfaces/obj/Debug/net9.0/Interfaces.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Interfaces/obj/Debug/net9.0/refint/Interfaces.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Interfaces/obj/Debug/net9.0/Interfaces.pdb
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Interfaces/obj/Debug/net9.0/Interfaces.genruntimeconfig.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/Interfaces/obj/Debug/net9.0/ref/Interfaces.dll

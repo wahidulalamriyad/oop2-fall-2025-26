@@ -1,0 +1,15 @@
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/NameSpaces/bin/Debug/net9.0/NameSpaces
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/NameSpaces/bin/Debug/net9.0/NameSpaces.deps.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/NameSpaces/bin/Debug/net9.0/NameSpaces.runtimeconfig.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/NameSpaces/bin/Debug/net9.0/NameSpaces.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/NameSpaces/bin/Debug/net9.0/NameSpaces.pdb
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/NameSpaces/obj/Debug/net9.0/NameSpaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/NameSpaces/obj/Debug/net9.0/NameSpaces.AssemblyInfoInputs.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/NameSpaces/obj/Debug/net9.0/NameSpaces.AssemblyInfo.cs
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/NameSpaces/obj/Debug/net9.0/NameSpaces.csproj.CoreCompileInputs.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/NameSpaces/obj/Debug/net9.0/NameSpaces.sourcelink.json
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/NameSpaces/obj/Debug/net9.0/NameSpaces.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/NameSpaces/obj/Debug/net9.0/refint/NameSpaces.dll
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/NameSpaces/obj/Debug/net9.0/NameSpaces.pdb
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/NameSpaces/obj/Debug/net9.0/NameSpaces.genruntimeconfig.cache
+/Users/wahidulalamriyad/Developer/oop2-fall-2025-26/Lab/NameSpaces/obj/Debug/net9.0/ref/NameSpaces.dll
